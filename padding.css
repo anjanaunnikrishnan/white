@@ -1,0 +1,12 @@
+div{background-color: aqua;
+width:300px ;
+height: 500px;
+margin: 50px;
+padding: 50px;
+border: 30px ridge tomato;}
+h2{color: brown;
+    text-align: center;
+    text-shadow: 5px 6px 7px;
+text-decoration: underline;}
+div p{color: blue;}
+div #para2{color: rgb(226, 147, 43);}

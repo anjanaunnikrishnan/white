@@ -1,0 +1,195 @@
+.background {
+    background-image: url(./coffe\ backround.jpg);
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    position: relative;
+}
+
+.bottom {
+    width: 100%;
+    background-color: antiquewhite;
+    height: 200px;
+    margin-top: 230px;
+    position: absolute;
+}
+
+.mid {
+    background-color: antiquewhite;
+    width: 40%;
+    height: 200px;
+    margin-left: 440px;
+    margin-top: -190px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.head {
+    background-color: brown;
+    position: sticky;
+    opacity: 0.6;
+    top: 20px;
+}
+
+img {
+    background-color: rgba(235, 232, 221, 0.229);
+    margin-left: 30px;
+}
+
+#search {
+    margin-left: 1300px;
+    opacity: 0.5px;
+}
+
+#shopping {
+    opacity: 0.5px;
+}
+
+#home {
+    background-color: rgba(79, 113, 79, 0.501);
+}
+
+#meet {
+    margin-top: 300px;
+
+}
+
+.middle {
+    background-color: white;
+    width: 100%;
+    height: 600px;
+    margin-top: 220px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.oop {
+    width: 200px;
+    height: 300px;
+    margin: 4px;
+    margin-top: 85px;
+    height: 400px;
+}
+
+p {
+    font-style: italic;
+    font-family: 'Sofia', cursive;
+}
+
+.image {
+    width: 100%;
+    height: 200px;
+
+}
+
+#but {
+    font-style: oblique;
+    width: 130px;
+    height: 40px;
+    border: 2px solid white;
+    border-radius: 30px;
+    background: transparent;
+    font: bold;
+    color: white;
+    text-shadow: 8px 16px 8px #000000;
+}
+
+#people {
+    background-image: url(./cofee\ people.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 100px;
+    width: 100%;
+    height: 500px;
+}
+
+#values {
+    width: 100%;
+    height: 400px;
+    background-color: white;
+}
+
+.paid {
+    width: 100px;
+}
+
+.last {
+    background-image: url(./coffe\ last.jpg);
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.7;
+    border-radius: 10%;
+
+}
+
+#mail {
+    background-color: white;
+    width: 100%;
+    height: 400px;
+}
+
+#email {
+    width: 70px;
+    opacity: 0.7;
+}
+
+.tab {
+    background-color: white;
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tabe {
+    background-color: white;
+    width: 100px;
+    height: 140px;
+    margin: 4px;
+    margin-top: 50px;
+    font-family: 'Lora', serif;
+}
+
+.logo {
+    width: 50%;
+}
+
+#footer {
+    background-image: url(./gradient.jpg);
+    background-repeat: repeat-x;
+    background-size: 10%;
+    opacity: 0.5;
+    width: 100%;
+    height: 200px;
+}
+
+
+#sign {
+    width: 130px;
+    height: 40px;
+    border: 2px solid white;
+    border-radius: 30px;
+    background-color: rgb(54, 35, 35);
+    font: bold;
+    color: white;
+}
+
+#mailid {
+    width: 400px;
+    height: 40px;
+    padding-left: 30px;
+}
+.buton {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #cdbcb7;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    
+  }
+  
+  

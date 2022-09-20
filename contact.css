@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+.back{background-image: url(./contact.jpg);
+background-repeat: no-repeat;
+width: 100%;
+height: 300px;
+position: relative;}
+.tea{background-color: white;
+width: 60%;
+height: 500px;
+padding: 3px;
+position: absolute;
+margin-top: -50px;
+margin-left: 300px;}
+.name{width: 75%;
+height: 50px;
+padding: 7px;
+margin-left: 120px;}
+#address{width: 75%;
+height: 200px;
+margin-left: 160px;}
+button{border-radius: 30%;
+width: 15%;
+height: 45px;
+background-color: rgb(104, 67, 67);
+color: white;
+border: 2px ridge white;
+margin-left: 120px;
+}

@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Qwitcher+Grypen&display=swap');
+div{background-image: url(./background.jpg);
+position: sticky;
+top: 30px;
+font-family: 'Qwitcher Grypen', cursive;}
+    body{
+        background-image: url(./calm.jpg);
+    background-repeat: no-repeat;
+   background-size:contain;
+}
+
+

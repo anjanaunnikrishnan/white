@@ -1,0 +1,21 @@
+.coffee {
+    background-image: url(./farmer.jpg);
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    font-family: 'Lato', sans-serif;
+   }
+   .bottom{background-color:white;
+width: 100%;
+height: 300px;
+position: absolute;
+margin-top: 200px;}
+.with{background-color: white;
+width: 60%;
+height: 400px;
+margin: 3px;
+margin-left: 200px;
+margin-top: -90px;
+padding: 140px;}
